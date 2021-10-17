@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.39.0" timestamp="2021-10-16T21:58:09.188">
+<file name="src/main/java/ec/edu/espol/workshops/CarInsurance.java">
+<violation beginline="3" endline="8" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="3" endline="8" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="5" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="5" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.39.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+</file>
+</pmd>

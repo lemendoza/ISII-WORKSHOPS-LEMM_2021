@@ -1,0 +1,27 @@
+[1;33m*[0m file: [1;37msrc/main/java/ec/edu/espol/workshops/CarInsurance.java[0m
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/CarInsurance.java[0m:[0;36m3:8[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/CarInsurance.java[0m:[0;36m3:8[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/CarInsurance.java[0m:[0;36m5:7[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/CarInsurance.java[0m:[0;36m5:7[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+
+
+Summary:
+
+ec.edu.espol.workshops.CarInsurance : 2
+[1;33m*[0m warnings: [1;37m4[0m
